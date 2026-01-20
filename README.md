@@ -53,6 +53,11 @@ En esta etapa del proyecto se realizó:
 - Unificación de los tres datasets en uno solo  
 - Exportación del dataset final en formato **Parquet**
 
+📁 Dataset final:
+```
+DataFiles/enfermedad_cardiaca_encoded.parquet
+```
+
 ---
 
 ## 📊 Análisis Exploratorio de Datos
@@ -113,6 +118,11 @@ Algunas de las variables incluidas en el análisis son:
 - Scikit-learn  
 - PyArrow  
 - pdfplumber  
+
+Intalación de depencias:  
+``` bash
+pip install -r requirements.txt
+```
 
 ---
 
